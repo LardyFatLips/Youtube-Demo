@@ -3,6 +3,7 @@
 namespace App\Controllers;
 
 use App\Core\App;
+use App\Services\YoutubeService;
 
 class VideosController
 
@@ -34,16 +35,26 @@ class VideosController
 
 	{
 
-		App::get('database')->insert('videos',[
-
-		'title' => $_POST['title']
-		//'url' => $_POST['url']
-		
-		]);
-
-		
-		return redirect('videos');
+//		App::get('database')->insert('videos',[
+//
+//		'title' => $_POST['title']
+//
+//
+//		]);
+//
+//
+//		return redirect('videos');
 
 	}
+
+
+	public function search(){
+
+        $youtubeClient = new YoutubeService();
+         = $youtubeClient->search($_POST['title']);
+
+        return view('index', 'videos');
+
+    }
 
 }

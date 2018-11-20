@@ -6,14 +6,21 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'App\\Controllers\\PagesController' => $baseDir . '/app/controllers/PagesController.php',
     'App\\Controllers\\VideosController' => $baseDir . '/app/controllers/VideosController.php',
     'App\\Core\\App' => $baseDir . '/core/App.php',
     'App\\Core\\Request' => $baseDir . '/core/Request.php',
     'App\\Core\\Router' => $baseDir . '/core/Router.php',
+    'App\\Services\\YoutubeService' => $baseDir . '/app/services/YoutubeService.php',
     'ComposerAutoloaderInitcc042b196d51faf6b70e3c2f662f3c15' => $vendorDir . '/composer/autoload_real.php',
     'Composer\\Autoload\\ClassLoader' => $vendorDir . '/composer/ClassLoader.php',
     'Composer\\Autoload\\ComposerStaticInitcc042b196d51faf6b70e3c2f662f3c15' => $vendorDir . '/composer/autoload_static.php',
     'Connection' => $baseDir . '/core/database/Connection.php',
+    'Madcoda\\Youtube\\Constants' => $vendorDir . '/madcoda/php-youtube-api/src/Constants.php',
+    'Madcoda\\Youtube\\Facades\\Youtube' => $vendorDir . '/madcoda/php-youtube-api/src/Facades/Youtube.php',
+    'Madcoda\\Youtube\\Tests\\YoutubeTest' => $vendorDir . '/madcoda/php-youtube-api/tests/YoutubeTest.php',
+    'Madcoda\\Youtube\\Youtube' => $vendorDir . '/madcoda/php-youtube-api/src/Youtube.php',
+    'Madcoda\\Youtube\\YoutubeServiceProviderLaravel4' => $vendorDir . '/madcoda/php-youtube-api/src/YoutubeServiceProviderLaravel4.php',
+    'Madcoda\\Youtube\\YoutubeServiceProviderLaravel5' => $vendorDir . '/madcoda/php-youtube-api/src/YoutubeServiceProviderLaravel5.php',
+    'Madcoda\\compat' => $vendorDir . '/madcoda/php-youtube-api/src/compat.php',
     'QueryBuilder' => $baseDir . '/core/database/QueryBuilder.php',
 );
