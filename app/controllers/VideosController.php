@@ -8,7 +8,14 @@ use App\Services\YoutubeService;
 class VideosController
 
 {
-	
+
+    protected $youtubeClient;
+
+    public function __construct(){
+
+        $this->youtubeClient = new YoutubeService();
+
+    }
 
 	public function home()
 
@@ -35,25 +42,28 @@ class VideosController
 
 	{
 
-//		App::get('database')->insert('videos',[
-//
-//		'title' => $_POST['title']
-//
-//
-//		]);
-//
-//
-//		return redirect('videos');
+	    var_dump($_POST['videoId']);
+
+        App::get('database')->insert('videos',[
+
+            'url' => $_POST['videoId'],
+            'title' => $_POST['videoId']
+
+        ]);
+
+
+		return redirect('index');
 
 	}
 
 
 	public function search(){
 
-        $youtubeClient = new YoutubeService();
-         = $youtubeClient->search($_POST['title']);
+        $videos = $this->youtubeClient->search($_POST['title'],$_POST['limit']);
 
-        return view('index', 'videos');
+        return view('index', compact('videos'));
+
+
 
     }
 

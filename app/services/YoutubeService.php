@@ -17,10 +17,10 @@ class YoutubeService
 
 	}
 
-	public function search($name)
+	public function search($name,$limit=10)
     {
 
-        return ($this->youtubeClient->searchVideos($name));
+        return ($this->youtubeClient->searchVideos($name,$limit));
 
     }
 

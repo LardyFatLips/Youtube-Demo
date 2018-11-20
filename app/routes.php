@@ -3,6 +3,8 @@
 
 $router->get('', 'VideosController@home');
 
-$router->get('videos', 'VideosController@index');
+$router->get('index', 'VideosController@index');
 
 $router->post('videos', 'VideosController@search');
+
+$router->post('videos-store', 'VideosController@store');
