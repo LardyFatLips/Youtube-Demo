@@ -25,6 +25,8 @@ class ComposerStaticInitcc042b196d51faf6b70e3c2f662f3c15
         'App\\Core\\App' => __DIR__ . '/../..' . '/core/App.php',
         'App\\Core\\Request' => __DIR__ . '/../..' . '/core/Request.php',
         'App\\Core\\Router' => __DIR__ . '/../..' . '/core/Router.php',
+        'App\\Models\\Video' => __DIR__ . '/../..' . '/app/models/Video.php',
+        'App\\Repositories\\YoutubeRepository' => __DIR__ . '/../..' . '/app/repositories/YoutubeRepository.php',
         'App\\Services\\YoutubeService' => __DIR__ . '/../..' . '/app/services/YoutubeService.php',
         'ComposerAutoloaderInitcc042b196d51faf6b70e3c2f662f3c15' => __DIR__ . '/..' . '/composer/autoload_real.php',
         'Composer\\Autoload\\ClassLoader' => __DIR__ . '/..' . '/composer/ClassLoader.php',

@@ -3,6 +3,8 @@
 
 namespace App\Core;
 
+use Exception;
+
 class Request
 
 {
@@ -25,5 +27,19 @@ class Request
 
 
 	}
+
+	public static function postParse($name){
+
+        if(array_key_exists($name,$_POST)){
+
+            return $_POST[$name];
+
+        }else{
+
+            throw new Exception('POST does not have correct data');
+        }
+
+    }
+
 
 }

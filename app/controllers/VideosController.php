@@ -3,17 +3,18 @@
 namespace App\Controllers;
 
 use App\Core\App;
+use App\Core\Request;
 use App\Services\YoutubeService;
 
 class VideosController
 
 {
 
-    protected $youtubeClient;
+    protected $youtubeService;
 
     public function __construct(){
 
-        $this->youtubeClient = new YoutubeService();
+        $this->youtubeService = new YoutubeService();
 
     }
 
@@ -31,8 +32,8 @@ class VideosController
 	public function index()
 	{
 
+        $videos = $this->youtubeService->retrieveSavedVideos();
 
-		$videos = App::get('database')->selectAll('videos');
 
 		return view('videos', compact('videos'));
 
@@ -43,10 +44,9 @@ class VideosController
 	public function store()
 
 	{
+        $data = Request::postParse('data');
 
-        $data = $_POST['data'];
-
-        $this->youtubeClient->parseSave($data);
+        $this->youtubeService->parseSave($data);
 
 		return redirect('index');
 
@@ -55,7 +55,7 @@ class VideosController
 
 	public function search(){
 
-        $videos = $this->youtubeClient->search($_POST['title']);
+        $videos = $this->youtubeService->search($_POST['title']);
 
         return view('index', compact('videos'));
 

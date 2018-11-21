@@ -13,6 +13,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/models/Model.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/models/Video.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/repositories/YoutubeRepository.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/routes.php">
           <value>
             <set />
@@ -58,12 +73,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/core/Request.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/core/Router.php">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/core/bootstrap.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/database/QueryBuilder.php">
           <value>
             <set />
           </value>
@@ -79,6 +104,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/public/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/public/js/custom.js">
           <value>
             <set />
           </value>
