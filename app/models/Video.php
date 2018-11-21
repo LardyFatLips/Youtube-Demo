@@ -8,20 +8,39 @@
 
 namespace App\Models;
 
+use App\Core\App;
+
 class Video
 {
 
-    protected $url;
+    public static function insert($data)
+    {
 
-    protected $title;
+        App::get('database')->insert('videos', [
 
-    protected $description;
+            'url' => $data['url'],
+            'title' => $data['title'],
+            'description' => $data['description']
 
+        ]);
 
-    public function __construct(){
+    }
 
+    public static function selectBy($data)
+    {
 
+        return (App::get('database')->SelectBy('videos',[
 
+            'url' => $data['url']
+
+        ]));
+
+    }
+
+    public static function selectAll()
+    {
+
+        return (App::get('database')->selectAll('videos'));
     }
 
 

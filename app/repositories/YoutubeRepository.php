@@ -10,44 +10,43 @@
 namespace App\Repositories;
 
 use App\Core\App;
+use App\Models\Video;
 
 class YoutubeRepository
 {
 
     public function __construct(){}
 
-    public function create($data){
-
-
-        $row = $this->selectBy($data);
-
-        var_dump(row);
-
-        if(empty($row)) {
-            App::get('database')->insert('videos', [
-
-                'url' => $data['url'],
-                'title' => $data['title'],
-                'description' => $data['description']
-
-            ]);
-        }
-    }
 
     public function selectAll(){
 
-        return (App::get('database')->selectAll('videos'));
+        return Video::selectAll();
 
     }
 
 
     public function selectBy($data){
 
-        return (App::get('database')->SelectBy('videos',[
+        return Video::selectBy($data);
 
-            'url' => $data['url']
+    }
 
-        ]));
+    public function create($data){
+
+        $row = $this->selectBy($data);
+
+        if(empty($row)) {
+
+            Video::insert($data);
+        }
+
+
+
+//        $rk = new RdKafka\Producer();
+//        $rk->setLogLevel(LOG_DEBUG);
+//        $rk->addBrokers('127.0.0.1');
+//        $topic = $rk->newTopic("video-saved");
+//        $topic->produce(RD_KAFKA_PARTITION_UA, 0, 'Hi');
 
     }
 

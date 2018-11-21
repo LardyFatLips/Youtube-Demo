@@ -49,7 +49,7 @@
 
                 <td>
 
-                    <button type="button" class="btn btn-primary">Save</button>
+                    <button type="button" class="btn btn-outline-primary btn-sm m-0 waves-effect">Save</button>
 
                 </td>
 

@@ -5,7 +5,7 @@ $(document).ready(function () {
 });
 
 
-$('.btn-primary').click(function () {
+$('.btn-outline-primary').click(function () {
 
     var table = $('#videos').DataTable();
     var getUrl = window.location;
