@@ -6,7 +6,6 @@
 <form method="POST" action="/videos">
 
 	<input name="title" required="true"> </input>
-    <input name="limit"> </input>
 
 	<button type="submit">Submit</button>
 
@@ -27,6 +26,11 @@
             <th class="th-sm">Save
 
             </th>
+
+            <th style="visibility:hidden">>
+
+
+            </th>
         </tr>
         </thead>
         <tbody>
@@ -35,20 +39,21 @@
 
             <tr>
 
-                <td>System Architect</td>
+                <td><?=$video->snippet->title?></td>
 
-                <td>
+                <td class="vid">
                     <iframe src="https://www.youtube.com/embed/<?=$video->id->videoId?>">/></iframe>
                 </td>
 
-                <td>System Architect</td>
-
+                <td><?=$video->snippet->description?></td>
 
                 <td>
 
                     <button type="button" class="btn btn-primary">Save</button>
 
                 </td>
+
+                <td style="visibility:hidden" class="hidden"><?=$video->etag?></td>
             </tr>
 
 
@@ -65,6 +70,11 @@
             </th>
             <th>Save
             </th>
+            <th style="visibility:hidden">>
+
+
+            </th>
+
         </tr>
         </tfoot>
     </table>

@@ -44,15 +44,9 @@ class VideosController
 
 	{
 
+        $data = $_POST['data'];
 
-        App::get('database')->insert('videos',[
-
-            'url' => $_POST['videoId'],
-            'title' => $_POST['title'],
-            'description' => $_POST['description']
-
-        ]);
-
+        $this->youtubeClient->parseSave($data);
 
 		return redirect('index');
 

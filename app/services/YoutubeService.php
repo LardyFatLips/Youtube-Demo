@@ -7,7 +7,6 @@ use Madcoda\Youtube\Youtube;
 
 class YoutubeService
 {
-
 	protected $youtubeClient;
 
 	function __construct()
@@ -20,10 +19,26 @@ class YoutubeService
 	public function search($name)
     {
 
+
         return ($this->youtubeClient->searchVideos($name, 20));
+
+
+
 
     }
 
+    public function parsesave($data){
+
+
+            App::get('database')->insert('videos',[
+
+                'url' => $data['url'],
+            'title' => $data['title'],
+            'description' => $data['description']
+
+        ]);
+
+        }
 
 }
 

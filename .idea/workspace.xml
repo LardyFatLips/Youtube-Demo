@@ -2,1094 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6d7548d-7af9-4b16-af4a-3b24832c8694" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/License.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/addons/datatables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/addons/datatables.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/mdb.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/mdb.lite.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/mdb.lite.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/mdb.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/modules/animations-extended.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/modules/animations-extended.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/roboto/Roboto-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/lightbox/default-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/lightbox/default-skin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/lightbox/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/overlays/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/svg/arrow_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/svg/arrow_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/addons/datatables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/addons/datatables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/mdb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/mdb.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/enhanced-modals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/forms-free.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/jquery.easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/scrolling-navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/velocity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/velocity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/waves.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modules/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_custom-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_custom-variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/addons/_datatables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/_helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/_masks.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/_waves.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/bootstrap/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/core/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_animations-basic.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_carousels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_depreciated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_footers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_loader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_modals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_msc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_steppers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/modules/animations-extended/_module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/free/modules/animations-extended/animations-extended.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/mdb.lite.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/mdb.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/VideosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/VideosController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/services/YoutubeService.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/YoutubeService.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/index.view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/partials/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/partials/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/partials/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/partials/head.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/partials/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/partials/nav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/videos.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/videos.view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/pkcs7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/AsyncGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/AwaitValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/applyDecoratedDescriptor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/arrayWithHoles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/assertThisInitialized.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncGeneratorDelegate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncIterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncToGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/awaitAsyncGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classCallCheck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classNameTDZError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldGet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldLooseBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldLooseKey.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classStaticPrivateFieldSpecGet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classStaticPrivateFieldSpecSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/construct.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/createClass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/decorate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/defineEnumerableProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/defineProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/AwaitValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/applyDecoratedDescriptor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncGeneratorDelegate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncIterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/awaitAsyncGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classCallCheck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classNameTDZError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldGet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldLooseBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldLooseKey.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldSpecGet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldSpecSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/construct.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/createClass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/decorate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/defineEnumerableProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/defineProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/extends.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/inherits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/initializerDefineProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/initializerWarningHelper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/instanceof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireDefault.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/isNativeFunction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/iterableToArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/iterableToArrayLimitLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/jsx.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/newArrowCheck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/nonIterableRest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectDestructuringEmpty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectSpread.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/readOnlyError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/skipFirstGeneratorNext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/slicedToArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/slicedToArrayLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/superPropBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteralLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/temporalRef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/temporalUndefined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toConsumableArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toPrimitive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/typeof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/wrapAsyncGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/extends.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/getPrototypeOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/inherits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/inheritsLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/initializerDefineProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/initializerWarningHelper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/instanceof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireDefault.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireWildcard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/isNativeFunction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/iterableToArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/iterableToArrayLimitLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/jsx.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/newArrowCheck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/nonIterableRest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/nonIterableSpread.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectDestructuringEmpty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectSpread.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectWithoutProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/readOnlyError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/setPrototypeOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/slicedToArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/slicedToArrayLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/superPropBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/taggedTemplateLiteralLoose.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/temporalRef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/temporalUndefined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toConsumableArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toPrimitive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toPropertyKey.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/typeof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/wrapAsyncGenerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/wrapNativeSuper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/regenerator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@videojs/http-streaming/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@videojs/http-streaming/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@videojs/http-streaming/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@videojs/http-streaming/dist/videojs-http-streaming.cjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@videojs/http-streaming/dist/videojs-http-streaming.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@videojs/http-streaming/dist/videojs-http-streaming.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@videojs/http-streaming/dist/videojs-http-streaming.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@videojs/http-streaming/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/dist/aes-decrypter.cjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/dist/aes-decrypter.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/dist/aes-decrypter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/dist/aes-decrypter.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/scripts/assets.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/scripts/banner.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/scripts/build-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/scripts/modules.rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/scripts/test.rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/scripts/umd.rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/scripts/version.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/src/aes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/src/async-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/src/decrypter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/src/stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/test/decrypter.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/test/dist/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/aes-decrypter/test/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/example/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/example/static/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/example/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dom-walk/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/test/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/for-each/test/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/console.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/document.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/process.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global/window.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/individual/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/individual/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/individual/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/individual/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/individual/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/individual/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/individual/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/.istanbul.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/.jscs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-function/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-function/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-function/browser-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-function/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-function/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-function/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-function/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/.jscsrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/contributing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/1-1600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/1-375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/1-480.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/13-1600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/13-375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/13-480.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/2-1600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/2-375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/2-480.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/4-1600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/4-375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/4-480.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/thumb-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/thumb-13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/thumb-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/img/thumb-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lg-fb-comment-box.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lg-fb-comment-box.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lg-transitions.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lg-transitions.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lightgallery.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/css/lightgallery.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/fonts/lg.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/fonts/lg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/fonts/lg.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/fonts/lg.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/img/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/img/video-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/img/vimeo-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/img/youtube-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery-all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery-all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/dist/js/lightgallery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/lib/jquery.mousewheel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/lib/lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/lib/picturefill.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/lightGallery.jquery.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-autoplay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-autoplay.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-fullscreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-fullscreen.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-hash.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-pager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-pager.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-share.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-share.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-thumbnail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-thumbnail.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-video.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-video.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-zoom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/modules/lg-zoom.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lg-fb-comment-box.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lg-fb-comment-box.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lg-transitions.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lg-transitions.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lightgallery.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/css/lightgallery.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/fonts/lg.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/fonts/lg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/fonts/lg.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/fonts/lg.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/img/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/img/video-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/img/vimeo-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/img/youtube-play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/js/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/js/lightgallery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-animations.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-autoplay.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-fb-comment-box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-fullscreen.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-pager.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-share.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-theme-default.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-thumbnail.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-transitions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-video.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lg-zoom.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/lightgallery.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/src/sass/prepros.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/test/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/test/lightgallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lightgallery/test/lightgallery_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/dist/m3u8-parser.cjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/dist/m3u8-parser.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/dist/m3u8-parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/dist/m3u8-parser.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/banner.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/build-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/export-m3u8s.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/m3u8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/modules.rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/postversion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/test.rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/umd.rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/scripts/version.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/src/line-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/src/parse-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/src/parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/src/stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/dist/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/absoluteUris.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/absoluteUris.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/allowCache.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/allowCache.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/allowCacheInvalid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/allowCacheInvalid.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/alternateAudio.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/alternateAudio.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/alternateVideo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/alternateVideo.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/brightcove.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/brightcove.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/byteRange.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/byteRange.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/dateTime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/dateTime.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/disallowCache.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/disallowCache.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/disc-sequence.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/disc-sequence.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/discontinuity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/discontinuity.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/domainUris.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/domainUris.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/empty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/empty.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/emptyAllowCache.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/emptyAllowCache.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/emptyMediaSequence.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/emptyMediaSequence.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/emptyPlaylistType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/emptyPlaylistType.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/emptyTargetDuration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/emptyTargetDuration.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/encrypted.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/encrypted.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/event.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/extXPlaylistTypeInvalidPlaylist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/extXPlaylistTypeInvalidPlaylist.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/extinf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/extinf.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/fmp4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/fmp4.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/headerOnly.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/headerOnly.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/invalidAllowCache.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/invalidAllowCache.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/invalidMediaSequence.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/invalidMediaSequence.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/invalidPlaylistType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/invalidPlaylistType.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/invalidTargetDuration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/invalidTargetDuration.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/liveMissingSegmentDuration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/liveMissingSegmentDuration.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/liveStart30sBefore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/liveStart30sBefore.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/manifestExtTTargetdurationNegative.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/manifestExtTTargetdurationNegative.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/manifestExtXEndlistEarly.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/manifestExtXEndlistEarly.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/manifestNoExtM3u.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/manifestNoExtM3u.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/master-fmp4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/master-fmp4.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/master.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/master.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/media.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/media.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/media1.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/media2.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/media3.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/mediaSequence.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/mediaSequence.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/missingEndlist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/missingEndlist.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/missingExtinf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/missingExtinf.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/missingMediaSequence.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/missingMediaSequence.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/missingSegmentDuration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/missingSegmentDuration.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/multipleAudioGroups.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/multipleAudioGroups.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/multipleAudioGroupsCombinedMain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/multipleAudioGroupsCombinedMain.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/multipleTargetDurations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/multipleTargetDurations.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/multipleVideo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/multipleVideo.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/negativeMediaSequence.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/negativeMediaSequence.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlist.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlistMediaSequenceHigher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlistMediaSequenceHigher.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlist_allow_cache_template.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlist_byte_range_template.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlist_extinf_template.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlist_media_sequence_template.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlist_target_duration_template.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/playlist_type_template.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/start.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/start.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/streamInfInvalid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/streamInfInvalid.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/twoMediaSequences.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/twoMediaSequences.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/versionInvalid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/versionInvalid.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/whiteSpace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/whiteSpace.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/zeroDuration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/fixtures/m3u8/zeroDuration.m3u8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/m3u8.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/test-expected.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/m3u8-parser/test/test-manifests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/.testem.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/CONTRIBUTION.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/docs.mli" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/document.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/dom-comment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/dom-element.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/dom-fragment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/dom-text.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/event/add-event-listener.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/event/dispatch-event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/event/remove-event-listener.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/serialize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/test/cleanup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/test/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/test/static/test-adapter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/test/test-document.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/test/test-dom-comment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/min-document/test/test-dom-element.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/dist/mpd-parser.cjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/dist/mpd-parser.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/dist/mpd-parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/dist/mpd-parser.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/scripts/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/scripts/rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/errors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/inheritAttributes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/parseAttributes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/parseUTCTimingScheme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/segment/durationTimeParser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/segment/segmentBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/segment/segmentList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/segment/segmentTemplate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/segment/timelineTimeParser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/segment/urlType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/stringToMpdXml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/toM3u8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/toPlaylists.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/utils/decodeB64ToUint8Array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/utils/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/utils/object.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/utils/resolveUrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/utils/time.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/src/utils/xml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/dist/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/index.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/inheritAttributes.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/manifests/maat_vtt_segmentTemplate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/manifests/maat_vtt_segmentTemplate.mpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/manifests/multiperiod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/manifests/multiperiod.mpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/manifests/segmentBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/manifests/segmentBase.mpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/manifests/segmentList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/manifests/segmentList.mpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/parseAttributes.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/segment/segmentBase.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/segment/segmentList.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/segment/segmentTemplate.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/segment/urlType.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/stringToMpdXml.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/toM3u8.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/toPlaylists.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpd-parser/test/utils.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/dist/mux-flv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/dist/mux-flv.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/dist/mux-mp4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/dist/mux-mp4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/dist/mux.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/dist/mux.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/aac/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/aac/probe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/codecs/adts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/codecs/h264.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/codecs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/data/silence.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/flv/coalesce-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/flv/flv-header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/flv/flv-tag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/flv/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/flv/tag-list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/flv/transmuxer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/m2ts/caption-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/m2ts/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/m2ts/m2ts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/m2ts/metadata-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/m2ts/probe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/m2ts/stream-types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/m2ts/timestamp-rollover-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/mp4/caption-parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/mp4/frame-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/mp4/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/mp4/mp4-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/mp4/probe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/mp4/track-decode-info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/mp4/transmuxer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/tools/caption-packet-parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/tools/flv-inspector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/tools/mp4-inspector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/tools/ts-inspector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/utils/bin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/utils/clock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/utils/exp-golomb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/lib/utils/stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mux.js/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/.zuul.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/example.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/parse-headers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse-headers/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/bin/cli.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/dist/pkcs7.cjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/dist/pkcs7.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/dist/pkcs7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/dist/pkcs7.pad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/dist/pkcs7.unpad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/src/pad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/src/pkcs7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pkcs7/src/unpad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/process/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/process/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/process/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/process/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/process/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/path.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/runtime-module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/example.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/rust-result/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/.testem.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/callback.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/examples/simple.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/result.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/test/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/test/static/test-adapter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safe-json-parse/tuple.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/trim/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/trim/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/trim/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/trim/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/trim/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/trim/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/trim/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tsml/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tsml/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tsml/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tsml/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tsml/tsml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/url-toolkit/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/url-toolkit/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/url-toolkit/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/url-toolkit/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/url-toolkit/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/url-toolkit/src/url-toolkit.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/url-toolkit/src/url-toolkit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/url-toolkit/test/url-toolkit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/alt/video-js-cdn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/alt/video-js-cdn.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/alt/video.core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/alt/video.core.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/alt/video.core.novtt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/alt/video.core.novtt.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/alt/video.novtt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/alt/video.novtt.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/elephantsdream/captions.ar.vtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/elephantsdream/captions.en.vtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/elephantsdream/captions.ja.vtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/elephantsdream/captions.ru.vtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/elephantsdream/captions.sv.vtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/elephantsdream/chapters.en.vtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/elephantsdream/descriptions.en.vtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/elephantsdream/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/shared/example-captions.vtt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/examples/simple-embed/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/font/VideoJS.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/font/VideoJS.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/font/VideoJS.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/ba.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/nn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/pt-PT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/lang/zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/video-js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/video-js.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/video.cjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/video.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/video.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/dist/video.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/_private-variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_adaptive.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_audio.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_big-play.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_captions-settings.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_captions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_chapters.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_close-button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_control-bar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_control-spacer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_control.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_descriptions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_error.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_fullscreen.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_live.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_loading.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_modal-dialog.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_play-pause.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_playback-rate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_poster.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_progress.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_slider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_subs-caps.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_subtitles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_text-track.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_time.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/_volume.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/menu/_menu-inline.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/menu/_menu-popup.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/components/menu/_menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/utilities/_linear-gradient.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/video-js.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/vjs-cdn.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/video.js/src/css/vjs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/.nvmrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/css/videojs-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/custom-icons/audio-description.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/custom-icons/fontawesome/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/custom-icons/fontawesome/gplus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/custom-icons/fontawesome/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/custom-icons/fontawesome/pinterest.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/custom-icons/fontawesome/tumblr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/custom-icons/fontawesome/twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/fonts/VideoJS.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/fonts/VideoJS.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/fonts/VideoJS.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/icons.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/lib/custom.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/lib/custom2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/lib/grunt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/scss/videojs-icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/templates/html.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-font/templates/scss.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/dist/vtt.global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/dist/vtt.global.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/dist/vtt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/dist/vtt.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/lib/browser-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/lib/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/lib/vtt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/lib/vttcue-extended.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/lib/vttcue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/lib/vttregion-extended.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/lib/vttregion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-vtt.js/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/dist/Youtube.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/dist/Youtube.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/examples/global-parameters.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/examples/simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/examples/switch.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/examples/youtube-controls.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/examples/youtube-javascript.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/examples/youtube-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/examples/youtube-playlist.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/videojs-youtube/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xhr/test/mock-server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/immutable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/mutable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xtend/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1106,20 +24,11 @@
       <file leaf-file-name="YoutubeService.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/services/YoutubeService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+            <state relative-caret-position="540">
+              <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
               <folding>
                 <element signature="e#33#50#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.view.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/index.view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="49" lean-forward="true" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -1142,11 +51,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/partials/footer.php">
+      <file leaf-file-name="App.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/App.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Router.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Router.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="631">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -1154,38 +68,22 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VideosController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/VideosController.php">
+      <file leaf-file-name="index.view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/index.view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="628">
+              <caret line="47" column="51" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
               <folding>
-                <element signature="e#35#52#0#PHP" expanded="true" />
+                <element signature="e#636#661#0#HTML" expanded="true" />
+                <element signature="e#1097#1122#0#HTML" expanded="true" />
+                <element signature="e#1554#1579#0#HTML" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/bootstrap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Router.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/Router.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -1193,8 +91,29 @@
       <file leaf-file-name="videos.view.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/videos.view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="420">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/partials/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideosController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/VideosController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#35#52#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1229,9 +148,9 @@
         <option value="$PROJECT_DIR$/app/views/partials/head.php" />
         <option value="$PROJECT_DIR$/core/bootstrap.php" />
         <option value="$PROJECT_DIR$/app/views/partials/nav.php" />
+        <option value="$PROJECT_DIR$/app/controllers/VideosController.php" />
         <option value="$PROJECT_DIR$/app/services/YoutubeService.php" />
         <option value="$PROJECT_DIR$/app/views/videos.view.php" />
-        <option value="$PROJECT_DIR$/app/controllers/VideosController.php" />
         <option value="$PROJECT_DIR$/app/views/index.view.php" />
         <option value="$PROJECT_DIR$/app/views/partials/footer.php" />
       </list>
@@ -1346,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542707948343</updated>
       <workItem from="1542707949850" duration="12259000" />
-      <workItem from="1542728787233" duration="13945000" />
+      <workItem from="1542728787233" duration="29106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26204000" />
+    <option name="totallyTimeSpent" value="41365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1401,6 +320,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" selection-start-line="35" selection-end-line="36" selection-end-column="41" />
+          <folding>
+            <element signature="e#636#661#0#HTML" expanded="true" />
+            <element signature="e#1097#1122#0#HTML" expanded="true" />
+            <element signature="e#1554#1579#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1557,51 +481,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/App.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/Router.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/YoutubeService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-          <folding>
-            <element signature="e#33#50#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/VideosController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#35#52#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/videos.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/index.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="49" lean-forward="true" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="65" />
+        <state relative-caret-position="631">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
@@ -1612,6 +498,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/VideosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#35#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/videos.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/partials/head.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1619,10 +529,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/YoutubeService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+          <folding>
+            <element signature="e#33#50#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="47" column="51" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
+          <folding>
+            <element signature="e#636#661#0#HTML" expanded="true" />
+            <element signature="e#1097#1122#0#HTML" expanded="true" />
+            <element signature="e#1554#1579#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/partials/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="420">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
         </state>
       </provider>
     </entry>

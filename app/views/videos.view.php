@@ -3,7 +3,7 @@
 
 <h1> Saved Videos </h1>
 
-<table id="videos1" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
+<table id="videos" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
     <thead>
     <tr>
         <th class="th-sm">Name
@@ -26,7 +26,7 @@
         <td><?=$video->title?> </td>
 
         <td>
-            <iframe src="https://www.youtube.com/embed/<?=$video->url?>"></iframe>
+            <iframe src="<?=$video->url?>"></iframe>
         </td>
 
         <td><?=$video->description?></td>
