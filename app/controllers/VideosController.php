@@ -21,7 +21,9 @@ class VideosController
 
 	{
 
-		return view('index');
+	    $videos = [];
+
+		return view('index', compact('videos'));
 
 	}
 	
@@ -42,12 +44,12 @@ class VideosController
 
 	{
 
-	    var_dump($_POST['videoId']);
 
         App::get('database')->insert('videos',[
 
             'url' => $_POST['videoId'],
-            'title' => $_POST['videoId']
+            'title' => $_POST['title'],
+            'description' => $_POST['description']
 
         ]);
 
@@ -59,7 +61,7 @@ class VideosController
 
 	public function search(){
 
-        $videos = $this->youtubeClient->search($_POST['title'],$_POST['limit']);
+        $videos = $this->youtubeClient->search($_POST['title']);
 
         return view('index', compact('videos'));
 

@@ -5,7 +5,6 @@
 
 <form method="POST" action="/videos">
 
-
 	<input name="title" required="true"> </input>
     <input name="limit"> </input>
 
@@ -13,25 +12,63 @@
 
 </form>
 
-<?php foreach ($videos as $video) :?>
+    <table id="videos" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
+        <thead>
+        <tr>
+            <th class="th-sm">Name
 
-    <div>
-    <iframe width="420" height="315"
-            src="https://www.youtube.com/embed/<?=$video->id->videoId?>">
-    </iframe>
+            </th>
+            <th class="th-sm">Video
 
-        <form action="/videos-store" method="post">
+            </th>
+            <th class="th-sm">Description
 
-<!--            <input type="hidden" name="description" value="83" />-->
-<!--            <input type="hidden" name="" value="100" />-->
-            <button type="submit" name="videoId" value= <?=$video->id->videoId?>> Upvote </button
+            </th>
+            <th class="th-sm">Save
 
-        </form>
+            </th>
+        </tr>
+        </thead>
+        <tbody>
 
-    </div>
+        <?php foreach ($videos as $video) :?>
+
+            <tr>
+
+                <td>System Architect</td>
+
+                <td>
+                    <iframe src="https://www.youtube.com/embed/<?=$video->id->videoId?>">/></iframe>
+                </td>
+
+                <td>System Architect</td>
 
 
+                <td>
 
-<?php endforeach; ?>
+                    <button type="button" class="btn btn-primary">Save</button>
+
+                </td>
+            </tr>
+
+
+        <?php endforeach; ?>
+
+        </tbody>
+        <tfoot>
+        <tr>
+            <th>Name
+            </th>
+            <th>Video
+            </th>
+            <th>Description
+            </th>
+            <th>Save
+            </th>
+        </tr>
+        </tfoot>
+    </table>
+
+</body>
 
 <?php require ('partials/footer.php'); ?>

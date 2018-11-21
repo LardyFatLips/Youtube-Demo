@@ -28,6 +28,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/views/partials/footer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/views/partials/head.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/views/partials/nav.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/views/storedvideos.view.php">
           <value>
             <set />
@@ -49,6 +64,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/core/bootstrap.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/public/css/style.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/public/css/style.min.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/public/index.html">
           <value>
             <set />
           </value>
