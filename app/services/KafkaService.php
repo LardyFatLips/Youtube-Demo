@@ -30,7 +30,7 @@ class KafkaService
     /**
      * @param $data
      */
-    public function produce($topic, $data){
+    public function produce($data){
 
 
         $payload = array();
