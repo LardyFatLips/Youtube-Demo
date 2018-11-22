@@ -1,5 +1,15 @@
 <?php
 
+/*
+ *
+ * This class serves to bootstrap and setup the application + giving a couple of global methods
+ *
+ * We bind the the config to our App DI container/storage as well as our PDO connection so we can use them later in the application with ease
+ *
+ *
+ */
+
+
 use App\Core\App;
 
 App::bind('config', require '../config.php');
@@ -14,6 +24,10 @@ App::bind('database', new QueryBuilder(
  * @param $name
  * @param array $data
  * @return mixed
+ *
+ * Once the controller has received the request delegated/interacted with the application and got any data it needs, we finally require the view/template as a response
+ *
+ * Extracts the data if array and turns into variables with values, maybe a bit ott but fine to be safe
  */
 function view($name, $data = [])
 
@@ -36,12 +50,3 @@ function redirect($path){
 
 }
 
-/*
- *
- * This class serves to bootstrap and setup the application
- *
- * We bind the the config to our App storage as well as our PDO connection so we can use them later in the application
- *
- * View and redirect are here as well but could be put elsewhere
- *
- */

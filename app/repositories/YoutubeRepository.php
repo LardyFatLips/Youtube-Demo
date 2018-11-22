@@ -14,6 +14,8 @@ use App\Models\Video;
 /**
  * Class YoutubeRepository
  * @package App\Repositories
+ *
+ * Interacts with the model
  */
 class YoutubeRepository
 {

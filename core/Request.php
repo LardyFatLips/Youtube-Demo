@@ -8,6 +8,9 @@ use Exception;
 /**
  * Class Request
  * @package App\Core
+ *
+ * Fetches or parses info about the current browser request etc
+ *
  */
 class Request
 
@@ -16,6 +19,10 @@ class Request
 
     /**
      * @return string
+     *
+     * parses the request uri and gets the php url path, need to do this to avoid get values etc getting in way
+     * Trims off the / at start
+     *
      */
     public static function uri()
 	{
@@ -28,6 +35,9 @@ class Request
 
     /**
      * @return mixed
+     *
+     * Sends back the request method, get, post, patch etc
+     *
      */
     public static function method()
 
@@ -42,6 +52,9 @@ class Request
      * @param $name
      * @return mixed
      * @throws Exception
+     *
+     * Checks the POST request to ensure that we have correct values passed
+     *
      */
     public static function postParse($name){
 

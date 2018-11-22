@@ -7,13 +7,31 @@ use App\Core\Request;
 use App\Services\KafkaService;
 use App\Services\YoutubeService;
 
+/**
+ * Class VideosController
+ * @package App\Controllers
+ *
+ * Method names are a bit confusing come to think of it so should really refactor and change after discussion
+ *
+ * Controller methods delegate actions then call global functions to give a response
+ */
 class VideosController
 
 {
 
+    /**
+     * @var YoutubeService
+     */
     protected $youtubeService;
+    /**
+     * @var KafkaService
+     */
     protected $kafkaService;
 
+    /**
+     * VideosController constructor.
+     * @throws \Exception
+     */
     public function __construct()
     {
         $this->youtubeService = new YoutubeService();
@@ -21,7 +39,11 @@ class VideosController
 
     }
 
-	public function home()
+    /**
+     * @return mixed
+     *
+     */
+    public function home()
 
 	{
 
@@ -30,9 +52,15 @@ class VideosController
 		return view('index', compact('videos'));
 
 	}
-	
 
-	public function index()
+
+    /**
+     * @return mixed
+     *
+     * Calls service to call repository then trigger data retrieval
+     * Maybe a bit ott here but wanted to separate concerns
+     */
+    public function index()
 	{
 
         $videos = $this->youtubeService->retrieveSavedVideos();
@@ -44,7 +72,14 @@ class VideosController
 	}
 
 
-	public function store()
+    /**
+     * @throws \Exception
+     * Checks request
+     * Calls youtubeservice and parses the chosen vid for saving
+     * Passes to kafka if no exception thrown or db error
+     *
+     */
+    public function store()
 
 	{
         $data = Request::postParse('data');
@@ -58,7 +93,13 @@ class VideosController
 	}
 
 
-	public function search()
+    /**
+     * @return mixed
+     *
+     * Calls youtube service to search for videos based on the title of the post var title
+     * Should have parsed Request but forgot and said wouldn't change in evening
+     */
+    public function search()
     {
 
         $videos = $this->youtubeService->search($_POST['title']);
