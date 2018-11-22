@@ -12,6 +12,7 @@ return array(
     'App\\Core\\Router' => $baseDir . '/core/Router.php',
     'App\\Models\\Video' => $baseDir . '/app/models/Video.php',
     'App\\Repositories\\YoutubeRepository' => $baseDir . '/app/repositories/YoutubeRepository.php',
+    'App\\Services\\KafkaService' => $baseDir . '/app/services/KafkaService.php',
     'App\\Services\\YoutubeService' => $baseDir . '/app/services/YoutubeService.php',
     'ComposerAutoloaderInitcc042b196d51faf6b70e3c2f662f3c15' => $vendorDir . '/composer/autoload_real.php',
     'Composer\\Autoload\\ClassLoader' => $vendorDir . '/composer/ClassLoader.php',

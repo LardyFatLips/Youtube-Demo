@@ -7,7 +7,8 @@ use App\Core\Request;
 /*
  * Serve from
  *
- * Get the autoload file that composer gives
+ * Get the autoload file that composer gives due to class map.
+ * Horrid having to require everything so this is better
  * Get the bootstrap file
  */
 

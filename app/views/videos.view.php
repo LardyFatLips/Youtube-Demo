@@ -1,50 +1,69 @@
-<?php require ('partials/head.php'); ?>
+<?php require('partials/head.php'); ?>
 
 
 <h1> Saved Videos </h1>
 
-<table id="videos" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
-    <thead>
-    <tr>
-        <th class="th-sm">Name
+<section class="mb-10">
 
-        </th>
-        <th class="th-sm">Video
 
-        </th>
-        <th class="th-sm">Description
+    <div class="card p-5 mb-7">
 
-        </th>
-    </tr>
-    </thead>
-    <tbody>
+        <div class="row">
 
-    <?php foreach ($videos as $video) :?>
+            <div class="col-lg-5 col-md-12">
 
-    <tr>
 
-        <td><?=$video->title?> </td>
+                <table id="videos" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
+                    <thead>
+                    <tr>
+                        <th class="th-sm">Name
 
-        <td>
-            <iframe src="<?=$video->url?>"></iframe>
-        </td>
+                        </th>
+                        <th class="th-sm">Video
 
-        <td><?=$video->description?></td>
+                        </th>
+                        <th class="th-sm">Description
 
-    </tr>
-    <?php endforeach; ?>
+                        </th>
+                    </tr>
+                    </thead>
+                    <tbody>
 
-    </tbody>
-    <tfoot>
-    <tr>
-        <th>Name
-        </th>
-        <th>Video
-        </th>
-        <th>Description
-        </th>
-    </tr>
-    </tfoot>
-</table>
+                    <?php foreach ($videos as $video) : ?>
 
-<?php require ('partials/footer.php'); ?>
+                        <tr>
+
+                            <td><?= $video->title ?> </td>
+
+                            <td>
+                                <iframe src="<?= $video->url ?>"></iframe>
+                            </td>
+
+                            <td><?= $video->description ?></td>
+
+                        </tr>
+                    <?php endforeach; ?>
+
+                    </tbody>
+                    <tfoot>
+                    <tr>
+                        <th>Name
+                        </th>
+                        <th>Video
+                        </th>
+                        <th>Description
+                        </th>
+                    </tr>
+                    </tfoot>
+                </table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<?php require('partials/footer.php'); ?>

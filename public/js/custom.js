@@ -36,4 +36,6 @@ $('.btn-outline-primary').click(function () {
         data: {data: json}
 
     });
+
+    alert('Saved');
 });

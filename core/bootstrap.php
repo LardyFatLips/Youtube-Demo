@@ -15,6 +15,7 @@ function view($name, $data = [])
 {
 
 	extract($data);
+//	die(var_dump(extract));
 
 	return require "../app/views/{$name}.view.php";
 

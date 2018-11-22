@@ -15,10 +15,13 @@ use App\Models\Video;
 class YoutubeRepository
 {
 
-    public function __construct(){}
+    public function __construct(){
+
+    }
 
 
-    public function selectAll(){
+    public function selectAll()
+    {
 
         return Video::selectAll();
 
@@ -39,15 +42,6 @@ class YoutubeRepository
 
             Video::insert($data);
         }
-
-
-
-//        $rk = new RdKafka\Producer();
-//        $rk->setLogLevel(LOG_DEBUG);
-//        $rk->addBrokers('127.0.0.1');
-//        $topic = $rk->newTopic("video-saved");
-//        $topic->produce(RD_KAFKA_PARTITION_UA, 0, 'Hi');
-
     }
 
 

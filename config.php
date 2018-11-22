@@ -1,6 +1,14 @@
 <?php
 
 
+/*
+ *
+ * Used to store config information that App will store
+ *
+ */
+
+
+
 return [
 
 	'database' =>[
@@ -20,7 +28,15 @@ return [
 
 	 'key' => 'AIzaSyBiVejoraTlJ051GIKQV8OQXc-zU9jqlBo' 	
 
-	]
+	],
+    'kafka' => [
+
+     'broker' => '192.168.33.10'
+    ]
+
 
 
 ];
+
+
+

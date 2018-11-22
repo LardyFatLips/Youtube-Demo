@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 use App\Core\App;
 use App\Core\Request;
+use App\Services\KafkaService;
 use App\Services\YoutubeService;
 
 class VideosController
@@ -11,10 +12,12 @@ class VideosController
 {
 
     protected $youtubeService;
+    protected $kafkaService;
 
-    public function __construct(){
-
+    public function __construct()
+    {
         $this->youtubeService = new YoutubeService();
+        $this->kafkaService = new kafkaService();
 
     }
 
@@ -48,12 +51,15 @@ class VideosController
 
         $this->youtubeService->parseSave($data);
 
+        $this->kafkaService->produce($data);
+
 		return redirect('index');
 
 	}
 
 
-	public function search(){
+	public function search()
+    {
 
         $videos = $this->youtubeService->search($_POST['title']);
 
