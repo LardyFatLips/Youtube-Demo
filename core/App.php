@@ -3,14 +3,27 @@
 
 namespace App\Core;
 
+use Exception;
+
+/**
+ * Class App
+ * @package App\Core
+ */
 class App
 {
 
 
-	protected static $registry = [];
+    /**
+     * @var array
+     */
+    protected static $registry = [];
 
 
-	public static function bind($key, $value)
+    /**
+     * @param $key
+     * @param $value
+     */
+    public static function bind($key, $value)
 	{
 
 		static::$registry[$key] = $value; 	
@@ -18,7 +31,11 @@ class App
 	}
 
 
-	public static function get($key)
+    /**
+     * @param $key
+     * @return mixed
+     */
+    public static function get($key)
 	{
 
 		if(! array_key_exists($key, static::$registry)){

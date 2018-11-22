@@ -10,15 +10,27 @@ namespace App\Services;
 
 use App\Core\App;
 
+/**
+ * Class KafkaService
+ * @package App\Services
+ *
+ * Uses RDKafka to send event
+ */
 class KafkaService
 {
 
+    /**
+     * KafkaService constructor.
+     */
     public function __construct()
     {
 
     }
 
-    public function produce($data){
+    /**
+     * @param $data
+     */
+    public function produce($topic, $data){
 
 
         $payload = array();

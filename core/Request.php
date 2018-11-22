@@ -5,12 +5,19 @@ namespace App\Core;
 
 use Exception;
 
+/**
+ * Class Request
+ * @package App\Core
+ */
 class Request
 
 {
 
 
-	public static function uri()
+    /**
+     * @return string
+     */
+    public static function uri()
 	{
 
 		return trim(
@@ -19,7 +26,10 @@ class Request
 
 	}
 
-	public static function method()
+    /**
+     * @return mixed
+     */
+    public static function method()
 
 	{
 
@@ -28,7 +38,12 @@ class Request
 
 	}
 
-	public static function postParse($name){
+    /**
+     * @param $name
+     * @return mixed
+     * @throws Exception
+     */
+    public static function postParse($name){
 
         if(array_key_exists($name,$_POST)){
 

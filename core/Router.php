@@ -6,10 +6,17 @@ namespace App\Core;
 
 use Exception;
 
+/**
+ * Class Router
+ * @package App\Core
+ */
 class Router {
 
 
-	public $routes =[
+    /**
+     * @var array
+     */
+    public $routes =[
 
 
 		'GET' => [],
@@ -18,9 +25,12 @@ class Router {
 
 	];
 
-	
 
-	public static function load($file)
+    /**
+     * @param $file
+     * @return Router
+     */
+    public static function load($file)
 	{
 
 		$router = new static;
@@ -31,7 +41,11 @@ class Router {
 
 	}
 
-	public function get($uri, $controller)
+    /**
+     * @param $uri
+     * @param $controller
+     */
+    public function get($uri, $controller)
 	
 	{
 
@@ -40,7 +54,11 @@ class Router {
 	}
 
 
-	public function post($uri, $controller)
+    /**
+     * @param $uri
+     * @param $controller
+     */
+    public function post($uri, $controller)
 
 	{
 
@@ -49,7 +67,13 @@ class Router {
 	}
 
 
-	public function direct($uri, $requestType)
+    /**
+     * @param $uri
+     * @param $requestType
+     * @return mixed
+     * @throws Exception
+     */
+    public function direct($uri, $requestType)
 	{
 
 		if(array_key_exists($uri, $this->routes[$requestType])) {
@@ -67,7 +91,13 @@ class Router {
 	}
 
 
-	protected function callAction($controller, $action)
+    /**
+     * @param $controller
+     * @param $action
+     * @return mixed
+     * @throws Exception
+     */
+    protected function callAction($controller, $action)
 	{
 
 		$controller = "App\\Controllers\\{$controller}";

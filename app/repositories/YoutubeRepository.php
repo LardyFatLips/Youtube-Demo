@@ -9,17 +9,26 @@
 
 namespace App\Repositories;
 
-use App\Core\App;
 use App\Models\Video;
 
+/**
+ * Class YoutubeRepository
+ * @package App\Repositories
+ */
 class YoutubeRepository
 {
 
+    /**
+     * YoutubeRepository constructor.
+     */
     public function __construct(){
 
     }
 
 
+    /**
+     * @return mixed
+     */
     public function selectAll()
     {
 
@@ -28,12 +37,19 @@ class YoutubeRepository
     }
 
 
+    /**
+     * @param $data
+     * @return mixed
+     */
     public function selectBy($data){
 
         return Video::selectBy($data);
 
     }
 
+    /**
+     * @param $data
+     */
     public function create($data){
 
         $row = $this->selectBy($data);

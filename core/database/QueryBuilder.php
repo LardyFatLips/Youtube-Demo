@@ -3,6 +3,9 @@
 
 /**
  * Class QueryBuilder
+ *
+ * Acts as a kind of simple ORM
+ *
  */
 class QueryBuilder
 
@@ -33,9 +36,15 @@ class QueryBuilder
 
 		$statement = $this->pdo->prepare("select * from {$table} ORDER BY ID ASC");
 
-		$statement->execute();
+		try {
+            $statement->execute();
+            return $statement->fetchAll(PDO::FETCH_CLASS);
+        } catch (Exception $e){
 
-		return $statement->fetchAll(PDO::FETCH_CLASS);
+		    die('Whoops something went wrong');
+        }
+
+
 
 	}
 
