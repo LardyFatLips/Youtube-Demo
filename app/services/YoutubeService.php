@@ -51,9 +51,8 @@ class YoutubeService
     /**
      * @return mixed
      */
-    public function retrieveSavedVideos(){
-
-
+    public function retrieveSavedVideos()
+    {
         return $this->youtubeRepository->selectAll();
 
     }
@@ -62,8 +61,8 @@ class YoutubeService
     /**
      * @param $data
      */
-    public function parsesave($data){
-
+    public function parsesave($data)
+    {
 
 	    $this->youtubeRepository->create($data);
 

@@ -56,7 +56,8 @@ class Request
      * Checks the POST request to ensure that we have correct values passed
      *
      */
-    public static function postParse($name){
+    public static function postParse($name)
+    {
 
         if(array_key_exists($name,$_POST)){
 

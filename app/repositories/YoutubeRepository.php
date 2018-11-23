@@ -43,7 +43,8 @@ class YoutubeRepository
      * @param $data
      * @return mixed
      */
-    public function selectBy($data){
+    public function selectBy($data)
+    {
 
         return Video::selectBy($data);
 
@@ -52,7 +53,8 @@ class YoutubeRepository
     /**
      * @param $data
      */
-    public function create($data){
+    public function create($data)
+    {
 
         $row = $this->selectBy($data);
 

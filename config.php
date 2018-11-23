@@ -26,7 +26,7 @@ return [
 	],
 	'youtube' =>[
 
-	 'key' => 'AIzaSyBiVejoraTlJ051GIKQV8OQXc-zU9jqlBo' 	
+	 'key' => ''
 
 	],
     'kafka' => [

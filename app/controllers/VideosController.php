@@ -65,7 +65,6 @@ class VideosController
 
         $videos = $this->youtubeService->retrieveSavedVideos();
 
-
 		return view('videos', compact('videos'));
 
 
